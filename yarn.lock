@@ -465,7 +465,7 @@ apollo-reporting-protobuf@^3.4.0:
   dependencies:
     "@apollo/protobufjs" "1.2.6"
 
-apollo-server-core@^3.13.0, apollo-server-core@^3.5.0:
+apollo-server-core@^3.13.0:
   version "3.13.0"
   resolved "https://registry.yarnpkg.com/apollo-server-core/-/apollo-server-core-3.13.0.tgz#ad6601fbb34cc97eedca27a9fb0b5738d11cd27d"
   integrity sha512-v/g6DR6KuHn9DYSdtQijz8dLOkP78I5JSVJzPkARhDbhpH74QNwrQ2PP2URAPPEDJ2EeZNQDX8PvbYkAKqg+kg==
@@ -540,7 +540,7 @@ apollo-server-types@^3.8.0:
     apollo-reporting-protobuf "^3.4.0"
     apollo-server-env "^4.2.1"
 
-apollo-server@^3.5.0:
+apollo-server@^3.13.0:
   version "3.13.0"
   resolved "https://registry.yarnpkg.com/apollo-server/-/apollo-server-3.13.0.tgz#38d355756717c0cb519e7ab95bce6dcc8ce35677"
   integrity sha512-hgT/MswNB5G1r+oBhggVX4Fjw53CFLqG15yB5sN+OrYkCVWF5YwPbJWHfSWa7699JMEXJGaoVfFzcvLZK0UlDg==

@@ -8,4 +8,5 @@ const recipeSchema = new mongoose.Schema({
   downvote: Number,
 });
 
-mongoose.model("Recipe", recipeSchema);
+// mongoose.model(Recipe, recipeSchema);
+mongoose.model("Recipe", recipeSchema)
